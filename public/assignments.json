@@ -1,0 +1,25 @@
+{
+  "assignments": [
+    {
+      "id": "assignment-1",
+      "title": "Introduction to Cloud Computing",
+      "description": "Overview of cloud computing concepts, deployment models, and service models.",
+      "category": "Fundamentals",
+      "pdfUrl": null
+    },
+    {
+      "id": "assignment-2",
+      "title": "AWS Fundamentals",
+      "description": "Core AWS services, architecture, and best practices.",
+      "category": "AWS",
+      "pdfUrl": null
+    },
+    {
+      "id": "assignment-3",
+      "title": "Google Cloud Platform Overview",
+      "description": "GCP services, Compute Engine, App Engine, and Cloud Functions.",
+      "category": "GCP",
+      "pdfUrl": null
+    }
+  ]
+}
