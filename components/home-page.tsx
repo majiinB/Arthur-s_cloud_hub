@@ -120,10 +120,10 @@ export default function HomePage({
         <div className="rounded-2xl p-8 md:p-12 bg-primary/5 border-2 border-primary/20 dark:bg-secondary/10 dark:border-secondary/40">
           <div className="text-center mb-8 md:mb-12">
             <h2 className="text-2xl md:text-3xl font-bold text-foreground mb-2">
-              Your Assignments
+              Assignments
             </h2>
             <p className="text-sm md:text-base text-muted-foreground">
-              Browse and explore your coursework
+              Browse and explore my cloud computing courseworks
             </p>
           </div>
 
